@@ -1,0 +1,18 @@
+table{
+  box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+}
+
+.table-heading{
+  background-color: #ef0885;
+  padding: 7px;
+  color: white;
+  border-radius: 4px;
+}
+
+nav{
+  --bs-bg-opacity: 1;
+  /* background-color: rgba(var(--bs-primary-rgb), var(--bs-bg-opacity)) !important; */
+  --bs-bg-opacity: 1;
+    background-color: #097268;
+    border-radius: 4px;
+}

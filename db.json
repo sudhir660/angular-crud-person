@@ -1,0 +1,36 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "name": "sudhir sherkar",
+      "Avatar": "software developer",
+      "email": "sudhirsherkar660@gmail.com",
+      "age": "",
+      "dob": "2001-10-09"
+    },
+    {
+      "id": 2,
+      "name": "mahesh",
+      "Avatar": "mechanical engineer",
+      "email": "mahesh@gmail.com",
+      "age": "",
+      "dob": "1992-05-01"
+    },
+    {
+      "id": 3,
+      "name": "amar fartare",
+      "Avatar": "senior engineer",
+      "email": "amar@gmail.com",
+      "age": "",
+      "dob": "2015-06-03"
+    },
+    {
+      "id": 4,
+      "name": "ram fartare",
+      "Avatar": "frontend developer",
+      "email": "ram@gmail.com",
+      "age": "",
+      "dob": "1992-06-11"
+    }
+  ]
+}
